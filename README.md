@@ -5,13 +5,13 @@ A React component library for building interactive node-based diagrams with smoo
 ## Installation
 
 ```bash
-npm install dynamic-interaction-map
+npm install dynamic-interaction-maps
 ```
 
 ## Usage
 
 ```tsx
-import { MapCanvas, Node, Edge } from 'Dynamic-Interaction-Maps';
+import { MapCanvas, Node, Edge } from 'dynamic-interaction-maps';
 
 function MyDiagram() {
   const [nodes, setNodes] = useState([
