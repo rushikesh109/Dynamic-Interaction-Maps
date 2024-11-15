@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-interaction-map",
+  "name": "dynamic-interaction-maps",
   "version": "1.0.0",
   "description": "A React component library for building interactive node-based diagrams",
   "type": "module",

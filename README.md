@@ -11,7 +11,7 @@ npm install dynamic-interaction-map
 ## Usage
 
 ```tsx
-import { MapCanvas, Node, Edge } from '@yourusername/dynamic-interaction-maps';
+import { MapCanvas, Node, Edge } from 'Dynamic-Interaction-Maps';
 
 function MyDiagram() {
   const [nodes, setNodes] = useState([
