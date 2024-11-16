@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { MapCanvas } from './components/MapCanvas';
 import { Node } from './components/Node';
 import { Edge } from './components/Edge';
